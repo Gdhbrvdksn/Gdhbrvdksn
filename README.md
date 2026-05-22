@@ -21,10 +21,55 @@
 
 ## Tech Stack
 
-![HTML](https://img.shields.io/badge/HTML-ff8fab?style=for-the-badge&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/CSS-8ecae6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-ffd166?style=for-the-badge&logo=javascript&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-bde0fe?style=for-the-badge&logo=github&logoColor=333)
+---
+
+## Featured Projects
+
+<div align="center">
+
+### 🌸 My Little Projects 🌸
+
+<table>
+  <tr>
+    <td width="33%" align="center">
+      <a href="https://github.com/Gdhbrvdksn/qun-signin-template">
+        <b>qun-signin-template</b>
+      </a>
+      <br />
+      <sub>✨ 群签到模板项目</sub>
+      <br /><br />
+      <a href="https://github.com/Gdhbrvdksn/qun-signin-template">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gdhbrvdksn&repo=qun-signin-template&theme=rose_pine&hide_border=true" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/toyokijichou990-dev/piday2026-XTU">
+        <b>piday2026-XTU</b>
+      </a>
+      <br />
+      <sub>🍓 Pi Day 相关小项目</sub>
+      <br /><br />
+      <a href="https://github.com/toyokijichou990-dev/piday2026-XTU">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=toyokijichou990-dev&repo=piday2026-XTU&theme=rose_pine&hide_border=true" />
+      </a>
+    </td>
+    <td width="33%" align="center">
+      <a href="https://github.com/whjwhy/xtu-pdf-agent">
+        <b>xtu-pdf-agent</b>
+      </a>
+      <br />
+      <sub>📄 PDF Agent 工具项目</sub>
+      <br /><br />
+      <a href="https://github.com/whjwhy/xtu-pdf-agent">
+        <img src="https://github-readme-stats.vercel.app/api/pin/?username=whjwhy&repo=xtu-pdf-agent&theme=rose_pine&hide_border=true" />
+      </a>
+    </td>
+  </tr>
+</table>
+
+</div>
+
+---
 
 ---
 
