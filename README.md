@@ -19,7 +19,6 @@
 
 ---
 
-## Tech Stack
 
 ## Featured Projects
 
@@ -57,13 +56,16 @@
 
 ---
 
-## GitHub Stats
+## My Coding Journey
 
 <div align="center">
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Gdhbrvdksn&show_icons=true&theme=rose_pine&hide_border=true)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Gdhbrvdksn&layout=compact&theme=rose_pine&hide_border=true)
+| Stage | What I'm Doing |
+| --- | --- |
+| 🌱 Learning | HTML / CSS / JavaScript |
+| 🧁 Practicing | GitHub / Markdown / 小项目 |
+| 🌷 Goal | 做出一个可爱又实用的个人主页 |
+| ✨ Motto | 慢慢来，也是在往前走 |
 
 </div>
 
