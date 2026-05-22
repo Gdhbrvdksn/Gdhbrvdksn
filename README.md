@@ -21,8 +21,6 @@
 
 ## Tech Stack
 
----
-
 ## Featured Projects
 
 <div align="center">
@@ -37,10 +35,6 @@
       </a>
       <br />
       <sub>✨ 群签到模板项目</sub>
-      <br /><br />
-      <a href="https://github.com/Gdhbrvdksn/qun-signin-template">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Gdhbrvdksn&repo=qun-signin-template&theme=rose_pine&hide_border=true" />
-      </a>
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/toyokijichou990-dev/piday2026-XTU">
@@ -48,10 +42,6 @@
       </a>
       <br />
       <sub>🍓 Pi Day 相关小项目</sub>
-      <br /><br />
-      <a href="https://github.com/toyokijichou990-dev/piday2026-XTU">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=toyokijichou990-dev&repo=piday2026-XTU&theme=rose_pine&hide_border=true" />
-      </a>
     </td>
     <td width="33%" align="center">
       <a href="https://github.com/whjwhy/xtu-pdf-agent">
@@ -59,17 +49,11 @@
       </a>
       <br />
       <sub>📄 PDF Agent 工具项目</sub>
-      <br /><br />
-      <a href="https://github.com/whjwhy/xtu-pdf-agent">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=whjwhy&repo=xtu-pdf-agent&theme=rose_pine&hide_border=true" />
-      </a>
     </td>
   </tr>
 </table>
 
 </div>
-
----
 
 ---
 
